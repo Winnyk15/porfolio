@@ -15,5 +15,6 @@
 ## Support and contact details
 {Email: kahendahwinnie@gmail.com.}
 ### License [MIT](https://raw.githubusercontent.com/Winnyk15/porfolio/master/license/license.txt)
-Link to the published site [my portfolio](https://winnyk15.github.io/porfolio/)
+Link to the published site [My portfolio](https://winnyk15.github.io/porfolio/)
+
 Copyright (c) {2020} **{Winnie Kahendah}** 
