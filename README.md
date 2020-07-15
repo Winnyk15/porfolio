@@ -14,5 +14,6 @@
 {The languages used to create the website include HTML and CSS.}
 ## Support and contact details
 {Email: kahendahwinnie@gmail.com.}
-### License
+### License [MIT](https://raw.githubusercontent.com/Winnyk15/porfolio/master/license/license.txt)
+Link to the published site [my portfolio](https://winnyk15.github.io/porfolio/)
 Copyright (c) {2020} **{Winnie Kahendah}** 
