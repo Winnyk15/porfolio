@@ -16,4 +16,3 @@
 {Email: kahendahwinnie@gmail.com.}
 ### License
 Copyright (c) {2020} **{Winnie Kahendah}** 
-Live link  https://winnyk15.github.io/porfolio/.
